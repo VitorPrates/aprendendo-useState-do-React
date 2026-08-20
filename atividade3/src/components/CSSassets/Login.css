@@ -1,0 +1,18 @@
+.formlogin {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(206, 206, 206);
+  padding: 20px;
+  border-radius: 10px;
+}
+.formlogin p {
+  text-align: center;
+  font-size: 1.2em;
+  font-family: "Courier New", Courier, monospace;
+}
+.formlogin input {
+  border-radius: 50px;
+  outline: none;
+  border: 1px solid black;
+  padding: 5px 20px;
+}/*# sourceMappingURL=Login.css.map */
